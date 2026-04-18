@@ -28,7 +28,7 @@ Anyone using Cowork who wants each conversation to build on the last — especia
 
 ## Contributing
 
-This kit is a working draft. If you run it and something breaks, doesn't land, or suggests a better approach, [open an issue](../../issues) or email [your-email]. The most useful feedback is specific: what you did, what happened, what you expected instead.
+This kit is a working draft. If you run it and something breaks, doesn't land, or suggests a better approach, [open an issue](../../issues). The most useful feedback is specific: what you did, what happened, what you expected instead.
 
 ## License
 
@@ -36,4 +36,4 @@ CC BY 4.0 — use, modify, share, including commercially. Attribution appreciate
 
 ## Origins
 
-Developed by [Everybody at Once](https://ea1.co). The architecture of per-person vaults that can eventually consult each other across individuals and teams (the "network of vaults") is a pattern EA1 is exploring in its own practice.
+Developed by [Everybody at Once](https://ea1.co). The architecture of per-person vaults that can eventually consult each other across individuals and teams is a pattern EA1 is exploring in its own practice.
