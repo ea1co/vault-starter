@@ -2,7 +2,7 @@
 
 A small, editable kit for setting up [Claude Cowork](https://www.claude.com/product/cowork) with a persistent, personal context file — what the kit calls a *vault*. The vault grows with you over time so every conversation with Claude builds on the last one instead of starting over.
 
-This is v0.6. The kit is actively evolving. Things will change. Known-imperfect items live in `TODO.md`; the design reasoning lives in `LEARNINGS.md`.
+This is v0.6. The kit is actively evolving. Things will change.
 
 ## Getting started
 
